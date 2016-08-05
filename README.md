@@ -2,4 +2,6 @@
 ko
 近藤です
 よろしくお願いします
-ss redmine
+
+追加
+ss2 redmine
