@@ -6,6 +6,6 @@ ko
 よろしくお願いします
 
 追加
-ss2 redmine
+redmine
 
 確認
