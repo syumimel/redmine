@@ -1,5 +1,5 @@
 # redmine
-ko
+ko　どす
 
 
 近藤です
